@@ -1,1 +1,3 @@
 # Spheroid-Characterisation-and-Cell-Counting-Software
+
+Developed a Matlab-based software for characterising spheroids through advanced medical image processing techniques. The software extracts quantitative and qualitative metrics from images of spheroid moulds, enabling the analysis of cell viability and quality. Additionally, a feature was implemented to automatically count cells in agarose moulds, significantly improving research efficiency by replacing the time-consuming manual counting process. The software includes an intuitive Graphical User Interface (GUI), allowing users with no programming experience to easily operate and analyse the data.
